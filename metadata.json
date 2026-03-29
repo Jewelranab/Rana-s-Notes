@@ -1,0 +1,5 @@
+{
+  "name": "Rana's Note",
+  "description": "A clean, modern, and mobile-responsive note-taking application with local storage persistence, search, and edit features.",
+  "requestFramePermissions": []
+}
